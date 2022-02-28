@@ -1,1 +1,1 @@
-# mbedOS6_BLE_DustSensorNetwork
+# mbedOS6 BLE Dust Sensor Network
